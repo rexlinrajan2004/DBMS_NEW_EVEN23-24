@@ -5,6 +5,7 @@
 To study and implement Subqueries and Views in SQL 
 ## THEORY
 ## SUB QUERIES 
+```
 * The query within another is known as a subquery. A statement containing a subquery is called a parent statement.
 * A subquery may occur in :
 - A SELECT clause
@@ -147,3 +148,4 @@ SELECT * FROM v1;
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/fcc076ad-b913-4773-a458-adcb7fc51d19)
 ### RESULT :
 Thus the sub queries and views are executed.
+```
